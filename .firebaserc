@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-backend-d946e": {
+      "hosting": {
+        "reciepe-book": [
+          "angular-backend-d946e"
+        ]
+      }
+    }
+  }
+}
